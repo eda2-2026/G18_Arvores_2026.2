@@ -7,7 +7,7 @@
 | 232021516 | Guilherme Gusmão Nepomuceno |
 
 ## Vídeo de apresentação
-[Link a ser adicionado]
+[Vídeo da apresentação](https://youtu.be/6L9FgEP0F2k)
 
 ## Descrição
 Implementação de um Livro de Ofertas para ingressos, comparando o desempenho de **Min-Heap**, **BST iterativa**, **AVL** e **Rubro-Negra**.
